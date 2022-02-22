@@ -1,0 +1,22 @@
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div {
+    border: green 2px solid;
+    background-color: lightgreen;
+    top: 40px;
+    left: 60px;
+    display:inline;
+}
+
+section {
+    position: relative;
+    border: purple 2px solid;
+    background-color:mediumpurple;
+}
+
+p {
+    border: orangered 2px solid;
+    background-color: orange;
+}
